@@ -1,1 +1,5 @@
-# touchdesigner_ldi_advanced_2018
+# touchdesigner_ldi_intro_2018
+
+## Day 1
+
+## Day 2
